@@ -9,3 +9,17 @@ html {
     --fontsize: 15px;
     
 }
+
+body {
+    display: flex;
+    justify-content: center;
+}
+.container {
+    text-align:center
+}
+p {
+    font-weight: bold;
+}
+input {
+    text-align: center;
+}
